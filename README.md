@@ -1,2 +1,2 @@
 # CS355-Project
-DBMS Project:- A search engine for lab equipments
+DBMS Project:- A search engine for lab equipment
